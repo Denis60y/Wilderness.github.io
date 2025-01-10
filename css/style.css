@@ -499,3 +499,13 @@ body{
         display: none;
     }
 }
+
+@media (max-width: 500px){
+    .tours-title{
+        font-size: 30px;
+    }
+
+    .tour-img{
+        width: 60%;
+    }
+}
