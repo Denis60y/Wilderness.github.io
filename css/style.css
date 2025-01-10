@@ -500,12 +500,35 @@ body{
     }
 }
 
-@media (max-width: 500px){
+@media (max-width: 400px){
     .tours-title{
         font-size: 30px;
     }
 
     .tour-img{
         width: 60%;
+    }
+
+    .header-title{
+        font-size: 40px;
+    }
+
+    .galery-titel{
+        font-size: 40px;
+    }
+    
+    .header{
+        height: 700px;
+    }
+
+    .craft-title{
+        font-size: 40px;
+    }
+    .craft-desc{
+        font-size: 20px;
+    }
+    .craft-btn{
+        font-size: 20px;
+        padding: 10px 35px;
     }
 }
